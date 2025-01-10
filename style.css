@@ -200,6 +200,7 @@ main{
     background-color: #5490f5;
     border: none;
     border-radius: 8px;
+    cursor: pointer;
 }
 .vision-btn2{
     margin-top: 45px;
@@ -210,6 +211,7 @@ main{
     background-color: #006A50;
     border: none;
     border-radius: 8px;
+    cursor: pointer;
 }
 .vision-btn3{
     margin-top: 45px;
@@ -220,6 +222,7 @@ main{
     background-color: #ffc239;
     border: none;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 
@@ -311,7 +314,7 @@ main{
     gap: 15px;
     margin-top: 10px;
     margin-bottom: 15px;
-    font-size: 16px;
+    font-size: 15px;
     color: #2c2d2e;
 }
 .blog-sub{
@@ -329,6 +332,7 @@ main{
     background-color: #006A50;
     border: none;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 /* donate section */
