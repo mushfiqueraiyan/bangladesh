@@ -14,7 +14,8 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 25px 140px ;
+    margin: 0px 140px ;
+    padding: 25px 0px;
 }
 
 #logo{
