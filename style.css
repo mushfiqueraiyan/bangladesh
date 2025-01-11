@@ -244,7 +244,7 @@ main{
 .quote{
     font-size: 16px;
     font-weight: 400;
-    color: #2c2d2e;
+    color: #5b6067;
     line-height: 24px;
     margin-bottom: 20px;
 }
@@ -275,7 +275,7 @@ main{
     color: #0E0E0E;
 }
 .news-subtitle{
-    color: #2c2d2e;
+    color: #5b6067;
     font-size: 16px;
     line-height: 24px;
     margin: 15px 0px;
@@ -318,7 +318,7 @@ main{
     color: #2c2d2e;
 }
 .blog-sub{
-    color: #2c2d2e;
+    color: #5b6067;
     font-size: 16px;
     line-height: 24px;
     margin-bottom: 25px;
@@ -355,7 +355,7 @@ main{
 }
 
 .donate-subtitle{
-    color: #2c2d2e;
+    color: #5b6067;
     font-size: 16px;
     line-height: 24px;
     margin-top: 20px;
